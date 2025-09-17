@@ -5,7 +5,6 @@ Drowned ledger
 	Kraken symbol
 	Has pet Shiela
 	
-Friends
-	Belona -dwarf 
-	Ungrim -dwarf
-	
+Friends:
+
+[[Belona]], [[Ungrim]]

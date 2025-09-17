@@ -7,5 +7,5 @@ Players:
 [[Theric]]
 [[Ken]]
 
-Sessions:
-[Sessions](Endarra/sessions)
+Our past
+[[Sessions]]

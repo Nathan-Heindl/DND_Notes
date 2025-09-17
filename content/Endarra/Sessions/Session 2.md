@@ -1,0 +1,3 @@
+![[Session 2.svg]]
+
+We follow the two humans into the sewers of [[Oakenfell]]. [[Ken]] summons his first familiar [[Scrappy]] to scout the area. the two humans hesitant at first, but go into the water and hit a switch causing part of the sewer wall to jut back and open up. Chains hang from the dank celling. After being led through several rooms. We come across a bigger room with multiple extruding rooms. On one side there is a group of [[Sahaugin]] cleaning there tridents and looking suspiciously at us. In another room [[Aedric]] notices a dwarf hammering on a cannon that looks to be to big for its room. Most of the other people were working on diving equipment. 

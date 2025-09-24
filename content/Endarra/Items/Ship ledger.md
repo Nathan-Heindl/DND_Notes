@@ -1,0 +1,2 @@
+Found in [[Endarra/Sessions/Session 2|Session 2]] on one of the fallen people in the abandoned church of TYR.
+- Has information about missing ships between [[Oakenfell]], [[Clearhorn]], [[Drenchport]], and [[Gilneas]]

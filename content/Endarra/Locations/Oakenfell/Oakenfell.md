@@ -1,10 +1,11 @@
 ![[Oakenfell_Map.png]]
 Drowned ledger
-	Leader
-		[[Captain Flynt Locke]]
-	Kraken symbol
-	Has pet Shiela
-	
-Friends:
+- Mercenary group
+- Leader:
+	- [[Captain Flynt Locke]]
+- Kraken symbol
+- Has pet [[Shiela]]
 
-[[Belona]], [[Ungrim]]
+Friends:
+- [[Belona]]
+- [[Ungrim]]

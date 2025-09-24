@@ -1,0 +1,1 @@
+Only known as the monster beneath [[Captain Flynt Locke]]'s base in [[Oakenfell]].

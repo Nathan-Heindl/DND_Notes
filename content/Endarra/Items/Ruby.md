@@ -1,0 +1,1 @@
+let's any melee weapon work as a spell casting weapon

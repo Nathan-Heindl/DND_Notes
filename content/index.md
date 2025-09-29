@@ -1,7 +1,7 @@
 ---
 title: Endarra Notes
 description: A collection of everything we have experienced and will experience in Endarra
-socialImage: https://github.com/Nathan-Heindl/DND_Notes/blob/v4/content/Endarra/Images/Endarra.jpg
+socialImage: "Endarra/Images/Endarra.jpg"
 ---
 Welcome to notes 2. Hopefully this one stays more organized.
 

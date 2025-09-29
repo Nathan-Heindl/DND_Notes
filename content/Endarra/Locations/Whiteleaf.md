@@ -1,0 +1,4 @@
+- A small village on the way to [[Thunderkeep]] from [[Drenchport]]
+- First visited in [[Endarra/Sessions/Session 6]]
+- A dozen buildings
+- Lost of animals roaming around

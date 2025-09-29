@@ -1,0 +1,1 @@
+The owner of the [[Ship ledger]] we found in [[Endarra/Sessions/Session 2|Session 2]].

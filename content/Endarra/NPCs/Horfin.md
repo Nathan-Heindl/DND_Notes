@@ -1,0 +1,2 @@
+- We helped get there carriage out of the ground in [[Endarra/Sessions/Session 6]]
+- We have a favor to redeem the next time we see him.

@@ -32,7 +32,7 @@ The man looks to us thanking us for our help. He asks about us, we cave in and t
 	- [[Amulet of Raise the Dead]]
 	- [[Rod of Magic Detection]]
 	- [[Immoveable Rod]]
-- Expensive book that could increase one of the smart stats by 1
+- [[Ken]] learns of an expensive book that could increase one of the smart stats by 1
 - [[Church of Tyr]] 
 	- Currently located in [[Clearhorn]]
 - Found abandoned church of TYR 1 day north of [[Oakenfell]]

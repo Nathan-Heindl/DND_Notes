@@ -1,0 +1,2 @@
+- Small familiar first summoned in [[Endarra/Sessions/Session 3|Session 3]]
+- muted orange with little baby horns

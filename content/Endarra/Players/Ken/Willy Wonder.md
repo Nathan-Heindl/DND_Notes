@@ -1,0 +1,2 @@
+- Familiar first summoned in [[Endarra/Sessions/Session 5]].
+- Pseudodragon

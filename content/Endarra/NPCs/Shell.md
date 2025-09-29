@@ -1,0 +1,2 @@
+- ambassador guard of [[Hundar]]
+- hobgoblin

@@ -1,0 +1,1 @@
+- The other mercenary's that [[Varian]] sent in [[Endarra/Sessions/Session 7]]

@@ -1,0 +1,2 @@
+- small place about 5 days travel from [[Drenchport]] on the road to [[Thunderkeep]]
+- First seen in [[Endarra/Sessions/Session 6]]

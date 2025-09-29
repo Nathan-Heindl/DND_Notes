@@ -1,0 +1,2 @@
+- Was a teacher of [[Mustel]]
+- Part of the [[Ragged Company]]

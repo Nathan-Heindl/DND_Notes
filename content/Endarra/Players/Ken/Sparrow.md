@@ -1,0 +1,2 @@
+- One of [[Ken]]s familiars
+- Sprite

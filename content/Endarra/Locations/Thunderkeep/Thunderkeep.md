@@ -1,0 +1,4 @@
+- High walls with lights and watchtowers stand in front of them.
+- [[Hundar]] is the current commander
+- Holding off the undead from [[Crystalsong fjord]]
+- Goblins, Kobolds, a humanoid bird species, and hill giants are present, all coexisting.

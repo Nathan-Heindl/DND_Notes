@@ -1,0 +1,2 @@
+First met in [[Endarra/Sessions/Session 4]] in the warehouse where [[Aedric]] was kept captive. 
+- was blackmailed into working for the drowned ledger

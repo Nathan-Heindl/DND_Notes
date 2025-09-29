@@ -1,3 +1,5 @@
 ![[dwarf.jpg]]
 
-We helped them on the road to [[Drenchport]]. currently setting up shop in [[Oakenfell]]. married to [[Belona]]
+- We helped them on the road to [[Drenchport]]. 
+- Currently setting up shop in [[Oakenfell]]. 
+- Married to [[Belona]]

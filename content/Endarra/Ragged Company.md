@@ -1,0 +1,5 @@
+ - A mercenary group now located in [[Shields Rest]]
+ - Symbol is a vertical deer skull with downward swords on both sides
+ - [[Varian]] is a member
+ - [[Therin]] is a member
+ - Helped raise [[Mustel]]

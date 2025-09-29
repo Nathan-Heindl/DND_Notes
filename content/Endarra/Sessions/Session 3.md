@@ -41,4 +41,4 @@ During the long rest ken hears a voice. He can only listen. "Kendrick you have d
 
 <font size="5px" color="purple">To Next Session:
 </font>
-- [[Session 4]]
+- [[Endarra/Sessions/Session 4]]

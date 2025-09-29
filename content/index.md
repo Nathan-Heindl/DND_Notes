@@ -1,11 +1,8 @@
 ---
-title: Welcome
+title: Endarra Notes
+description: A collection of everything we have experienced and will experience in Endarra
+socialImage: https://github.com/Nathan-Heindl/DND_Notes/blob/v4/content/Endarra/Images/Endarra.jpg
 ---
-<head>
-<meta property="og:title" content="Endarra Notes" />
-<meta property="og:description" content="A collection of everything we have experienced and will experience in Endarra" />
-<meta property="og:image" content="https://github.com/Nathan-Heindl/DND_Notes/blob/v4/content/Endarra/Images/Endarra.jpg" />
-</head>
 Welcome to notes 2. Hopefully this one stays more organized.
 
 <font size="5px" color="purple">Map of Endarra: 

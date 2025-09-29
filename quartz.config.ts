@@ -16,8 +16,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "nathan-heindl.github.io/DND_Notes",
-    ignorePatterns: ["private", "templates", ".obsidian", "Z_Excalidraw Drawings"],
+    baseUrl: "nathan-heindl.github.io/DND_Notes/",
+    ignorePatterns: ["private", "templates", ".obsidian", "Z_Excalidraw Drawings", "Z_Not finished"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "nathan-heindl.github.io/DND_Notes/",
-    ignorePatterns: ["private", "templates", ".obsidian", "Endarra/Z_Excalidraw Drawings", "Z_Not finished", "Excalidraw"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Z_Not finished", "Excalidraw"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

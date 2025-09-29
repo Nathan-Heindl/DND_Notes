@@ -1,36 +1,20 @@
 ![[Session 4.svg]]
-<font size="5px" color="orange">Non-Combat: 
 
-</font>
-
+# Non-Combat
 [[Mustel]] has been traveling for a week by himself. From under [[Thunderkeep]] and above [[Highhelm]]. He arrives in [[Drenchport]] gaining the many glances at his appearance. he hears behind him yelling MUSTEL. He looks behind, it's [[Varian]]. He walks up and engages in conversation. He said He was sent by [[Therin]] to go out on her own. [[Mustel]] asks what [[Varian]] was up too. [[Varian]] talks about our group. Inside the inn [[Lobis]] and [[Ken]] knock on [[Aedric]] and [[Theric]]'s door. No response. [[Ken]] summons a slag pole [[Timmy]] . [[Timmy]] says okay telepathically. He slithers on the ground barely fitting under the door. [[Theric]] feels a slimy slick on his arm and tries to knock it off. [[Theric]] looks around and [[Aedric]] is nowhere to be seen. [[Lobis]] also cant find where [[Aedric]] is, he seems to be missing. You don't see any signs of a break-in. We go down and ask the lady if she has seen our friend. She says he left with our other friends all wearing cloaks. As we leave, [[Ken]] hears [[Varian]]s voice asking what inn are we staying at. [[Ken]] responds with the inn we are staying at. We see down the road to the right [[Varian]] standing there with a new weasel person by his side. Sandy color with brown extremities. Wearing chainmail and a long glave on the back. [[Varian]] asks [[Ken]] if he had a good sleep. [[Ken]] says yes and describes [[Aedric]] walking out of the in with the hooded figures. [[Varian]] says he has an old friend that he would like us to meet and we start to introduce ourselves.  [[Varian]] asks [[Mustel]] to go help us with finding our friend. [[Varian]] talks about a potential big job coming up. He heads off. It's 9 am we spend a little over and hour asking around and we don't really hear anything. [[Mustel]] asks a middle age dwarf, if he has seen a man with three hooded figures. He says he doesn't know and he grabs him and asks more aggressive asking again to no avail. We meet back up and we found nothing. [[Ken]] asks the local town police if they have seen our friend, he rolls a 16. He learns he is lying. Running a coin through his finger [[Ken]] asks again. The guard says they saw him going towards the harbor office. We head toward the harbor office. It almost toward the edge of the coast. There is no one around outside but there are people inside. We head into the office after making our plan. A bank teller almost like entrance. Looking at the [[Ship ledger]] we got earlier it has a name on the top reading harbor master [[Caleum]]. We ask about our business with him. She goes into the back and asks her boss. A gnome man comes out the side door and beckons us into the back room. Back of the room is a desk and on the right side of the wall are windows facing the ocean. As we trade information three merfolk break into the room through the window. One of them looks very bedazzled. We all roll initiative, combat begins.
 
-<font size="5px" color="Red">Combat: 
-
-</font>
-
+# Combat
 The [[Sahaugin]] with jewelry and trident-less goes first. [[Ken]] is frozen in place from hold person. The merfolk move to cut us off from the dwarf. It's [[Mustel]]s turn he moves up and swings their glave and it misses. They use his bonus action to cast shield of faith on the dwarf giving him 2 ac. [[Ken]] uses lucky and rolls 1 and then a 3 haha. [[Lobis]] cast grease and merfolk 1 and 2 slip now laying prone. The merfolk stands up and swings at [[Mustel]] and she dodged. The second merfolk stand up and does 14 damage to [[Ken]] LOL. they swing on [[Theric]] and they miss. [[Lobis]] get rid of [[Theric]]'s dis advantage and he uses lucky, uhh it's still shit bruh. His ass misses. [[Theric]] uses his bonus action to summon a spiritual sword. He rolls a 13 it hits, doing 9 damage to the big merfolk holding [[Ken]]. It works [[Ken]] is free from hold person. The merfolk turns his attention to [[Theric]] and swings at him doing some damage. [[Mustel]] gets hit for 2 damage by another [[Sahaugin]].  [[Mustel]]s turn he casts sacred flame on the merfolk against the wall. It hits doing 8 damage. It's [[Ken]]s turn and he uses burning hands on the two creatures in front of him. He does 16 to one and 8 to the other. [[Lobis]] casts innate sorcery, and magic missile. He kills one of the merfolk and the other is injured. [[Theric]] casts guiding bolt on the big merfolk again it hits this time, doing 16 DMG causing the priest to kneel over in pain. He uses his bonus action to use the spirit weapons to attack doing 7 DMG. The sword impales the same spot, causing the priest to look at him shaking in pain. The priest moves and casts the spectral jaws on [[Theric]] doing 7 DMG leaving [[Theric]] low. They merfolk swing on [[Mustel]] but he's a freaking tank. They swing on [[Lobis]] and miss again. [[Mustel]] swings on the low one and it hits and casts divine smite vaporizing the poor merfolk and his bloodline. [[Ken]] moves out of melee range and takes 3 DMG but deals 9 DMG to the merfolk that was in front of him and he kills the guy. [[Ken]] hits him for 6 DMG.
 
-<font size="5px" color="orange">Non-Combat: 
-
-</font>
-
+# Non-Combat
 [[Caleum]] is at the back of the room. He closes a safe door under his desk. He blames us for leading the [[Sahaugin]] to him. [[Lobis]] ask him about the warehouses and he gives a map. A warehouse to the east. We step outside and short rest. Everyone heals. As we head to the warehouse [[Ken]] uses the acid in the [[Alchemy Jug]]. As we head in [[Lobis]] uses detect magic. It's just [[Aedric]] in the middle with some etching in the ground. He is bound with rope and [[Theric]] notices two humanoid figures to the right.
 
-<font size="5px" color="Red">Combat: 
-
-</font>
-
+# Combat
  [[Ken]] notices a Human with a mace and a heavy crossbow. The other person is holding a glave with orange infernal runes. [[Ken]] feels the branding iron in his bag reacts to the monster. [[Ken]] uses ray of sickness, it hits doing zero damage LOL. The human goes back and shoots a super cross bow at [[Lobis]] and it misses barely, [[Lobis]] shits his pants. [[Mustel]] moves to the [[Purple guy]] and swings at him hitting for 4 DMG. The [[Purple guy]] moves toward [[Mustel]] and does a beard attack, it misses. He swings at [[Theric]] and it misses barely. [[Theric]] rolls from a 1 to a 20 SHEESH. NEW RULE, WHERE SPELLS CAN CRIT. [[Theric]] DOES 8 D6, to the human beating him up. As a bonus action he uses spiritual weapon dealing 9 DMG absolutely murdering the human GG. An imp appears next to [[Lobis]] and tries to sting him, it does 11 poison DMG. [[Lobis]] use his buff and casts mirror image. [[Ken]] gets in range and uses [[Lobis]]' lucky it misses bruhhh. [[Mustel]] swings again doing 4 DMG. It's the purple man's turn. He uses a beard attack on [[Mustel]] hitting for 4 piercing DMG and poisoning [[Mustel]] until the start of his next turn. He swings on [[Ken]] doing 7 slashing DMG and rolls a constitution saving throw saving it. He uses hellish rebuke it does no DMG AGAIN LOLL. [[Theric]] uses his last lucky to hit for 13 DMG. He uses his bonus action to hit for 4 DMG. The imp tries to sting [[Lobis]] again but it misses. [[Lobis]] uses sorcerer points to speed up his spell and do 12 to the imp and 2 to the purple man. [[Ken]] stabs the purple man with the branding iron. It sizzles on impact and it doesn't do any DMG. [[Ken]] runs away and it slashed for 12 DMG and poisoning him. [[Mustel]] swings on the [[Purple guy]] barley hitting for 1 DMG bruhh, but divine smite helps doing 17 DMG total. It's [[Purple guy]]'s turn, he uses beard attack on [[Mustel]] doing 6 piercing DMG and swings it's glave doing 12 + 6 DMG yikessss. It crit btw. [[Theric]] casts toll of the dead and uses spiritual weapon doing enough to kill him. The imp runs away. As the devil is dying it's body burns away. [[Ken]] hears in his head "thank you for doing your duty and adding to my collection, you will be rewarded handsomely."
- 
-<font size="5px" color="orange">Non-Combat: 
-
-</font>
-
+# Non-Combat
 We free [[Aedric]] from the chair of doom. We ask him what happened. He said he slept walk and then got captured. We ask about what [[Aedric]] saw. He was with [[Captain Flynt Locke]], the captain worked with him for a bit. There was another cloaked figure in the room, [[Ken]] finds him and throws him in the room. The woman is in tears on the floor. She says her name is [[Melissa]], and that they forced her to work for them. "They wanted me to scribe on y'all. They have my kid I just needed to work to protect them." She goes into the corner and contacts the boss and tells him that the devil killed us all and left completing his contract. She comes back and says "I think we're good he seems to believe us." We throw the [[Tracking Rings]] on the floor and [[Aedric]] and [[Mustel]] exchange greetings. [[Melissa]] excuses herself. [[Ken]] loots the body he takes the 3 gold, a heavy crossbow and the mace. We head back to the inn and long rest.  We meet with [[Varian]] at the inn. On the next day [[Varian]] tells [[Ken]], next job a week from now, and its a big one. He mentions the council of aldrea containing the 13 big cities in the continent. We all level up.
 
-<font size="5px" color="purple">Important Info: 
-</font>
+# Important Info
 - We Get a new party member [[Mustel]]
 - [[Ken]] summons [[Timmy]] for the first time
 - [[Aedric]] is missing 
@@ -45,6 +29,5 @@ We free [[Aedric]] from the chair of doom. We ask him what happened. He said he 
 	- containing the 13 big cities across the continent
 - We all hit Level 4
 
-<font size="5px" color="purple">To Next Session:
-</font>
+# Next Session
 - [[Endarra/Sessions/Session 5|Session 5]]

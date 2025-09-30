@@ -1,4 +1,5 @@
 ## Session 1
+***
 - Start in [[Oakenfell]]
 - Encounter [[Big Ogre]]
 - Form a Party
@@ -9,6 +10,7 @@
 - Escape to sewers with two humans
 
 ## Session 2
+***
 - We get the [[Tracking Rings]] and meet with [[Captain Flynt Locke]].
 - Meet [[Sahaugin]] for the first time
 - Meet [[Shiela]]
@@ -31,6 +33,7 @@
 - Hit level 3
 
 ## Session 3
+***
 - [[Ken]] hears a voice in his sleep and wakes up with a [[Branding Iron]]
 - [[Aedric]] summons his lizord familiar
 - We head to and reach [[Drenchport]]
@@ -51,6 +54,7 @@
 	- Scales from [[Basilisk]]
 
 ## Session 4
+***
 - We Get a new party member [[Mustel]]
 - [[Ken]] summons [[Timmy]] for the first time
 - [[Aedric]] is missing 
@@ -66,6 +70,7 @@
 - We all hit Level 4
 
 ## Session 5
+***
 - [[Ken]] gets his reward from branding last time.
 	- its a 6 sided weighted die
 - Devils are lawful evil residing in the 9 hells, neighbors of the abyss. In a blood war. They return to hell when they die.
@@ -83,6 +88,7 @@
 	- [[Mustel]]'s [[True form]] is revealed
 
 ## Session 6
+***
 - As we loot the druids [[Lobis]] notices a note reading about their sick parents and a tally of their wages 
 - We continue our travel towards [[Thunderkeep]]
 - We come across a small village [[Whiteleaf]]
@@ -101,6 +107,7 @@
 	- He gives us a new mission to catch a runaway carriage heading north.
 
 ## Session 7
+***
 - On mission for [[Varian]]
 	- meets up with [[Patrick]] and [[Larian]]
 	- fights cultists and [[Conjurer]] that summoned a skeletal snake.
@@ -118,9 +125,13 @@
 		- [[Red-eyed Skeleton]]
 
 ## Session 8
+***
 
 ## Session 9
+***
 
 ## Session 10
+***
 
 ## Session 11
+***

@@ -1,3 +1,4 @@
+***
 - [[Artificer and Golem]]
 - [[Axe Soldier Construct]]
 - [[Basilisk]]

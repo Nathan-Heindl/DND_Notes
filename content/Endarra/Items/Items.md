@@ -1,3 +1,4 @@
+***
 - [[Alchemy Jug]]
 - [[Amulet of Raise the Dead]]
 - [[Blood stained note]]

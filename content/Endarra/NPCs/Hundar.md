@@ -1,4 +1,4 @@
-- The acting commander of [[Thunderkeep]]
+- The acting commander of [[Thunderkeep]] for the past 10-12 years
 - A stone giant
 	- 20 foot figure
 - First met in [[Endarra/Sessions/Session 7]]

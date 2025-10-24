@@ -1,0 +1,3 @@
+- Gothic city
+- First investigated for sus grain in [[Endarra/Sessions/Session 9|Session 9]]
+- home of the graveyard with [[Vampire Lady]]

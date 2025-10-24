@@ -1,0 +1,1 @@
+- An armor smith that resides in [[Thunderkeep]].

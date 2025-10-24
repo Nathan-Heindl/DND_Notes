@@ -1,0 +1,2 @@
+- Uncommon Wondrous Item (Requires Attunement),
+- 3 charges, restore 1 per long rest. As an action, all creatures in a 30 ft cone must make a Wisdom saving throw DC 14. On a failure the creature becomes Blinded until the start of their next turn.

@@ -1,1 +1,1 @@
-![[zombie.png]]
+![[zombie.png|400]]

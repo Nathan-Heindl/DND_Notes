@@ -1,1 +1,1 @@
-![[Spider Monster.png]]
+![[Spider Monster.png|400]]

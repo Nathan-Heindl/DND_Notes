@@ -1,1 +1,1 @@
-![[Beholder.png]]
+![[Beholder.png| 400]]

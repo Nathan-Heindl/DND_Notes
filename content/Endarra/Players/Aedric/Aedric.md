@@ -1,12 +1,13 @@
-![[Aedric.png]]
+![[Aedric.png| 200]]
 
-<font size="5px" color="purple">Race: 
-</font>
+# Race
+***
 - Goliath(Storm Giant)
 
-<font size="5px" color="purple">Class: 
-</font>
+# Class
+***
 - Druid
 
-<font size="5px" color="purple">Subclass: 
-</font>
+# Subclass
+***
+- Circle of the sea

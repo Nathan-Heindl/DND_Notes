@@ -1,0 +1,5 @@
+- Green [[Kobold]]
+- First met in [[Endarra/Sessions/Session 8]]
+- Sold us potions of healing for cheap
+- Sold [[Ken]] the special potion that turned his skin to stone and had resistance to all damage for 1 minute
+- currently resides in [[Theric Keep]]

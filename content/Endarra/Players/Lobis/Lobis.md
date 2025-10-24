@@ -1,13 +1,13 @@
-![[lobis.png]]
+![[lobis.png| 200]]
 
-<font size="5px" color="purple">Race: 
-</font>
+# Race
+***
 - Gnome
 
-<font size="5px" color="purple">Class: 
-</font>
+# Class
+***
 - Sorcerer
 
-<font size="5px" color="purple">Subclass: 
-</font>
+# Subclass
+***
 - Clockwork

@@ -1,1 +1,1 @@
-![[Artificer and Golem.png]]
+![[Artificer and Golem.png | 400]]

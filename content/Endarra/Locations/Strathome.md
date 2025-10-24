@@ -1,2 +1,3 @@
 - small place about 5 days travel from [[Drenchport]] on the road to [[Thunderkeep]]
 - First seen in [[Endarra/Sessions/Session 6]]
+- Whole city was burned by [[Ragged Company]] because of the incurable undead outbreak

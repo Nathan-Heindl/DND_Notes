@@ -1,0 +1,2 @@
+- First met in [[Endarra/Sessions/Session 11|Session 11]]
+- Griffin keeper in [[Thunderkeep]]

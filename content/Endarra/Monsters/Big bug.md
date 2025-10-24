@@ -1,1 +1,1 @@
-![[Another Bug.png]]
+![[Another Bug.png| 400]]

@@ -1,4 +1,4 @@
-![[Basilisk.png]]
+![[Basilisk.png | 400]]
 
 First encountered in [[Endarra/Sessions/Session 3]]. With a reptilian like body.
 - Medium in size

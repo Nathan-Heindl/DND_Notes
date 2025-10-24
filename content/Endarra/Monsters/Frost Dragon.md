@@ -1,1 +1,1 @@
-![[Mistcharter_Maps_White_Dragon_Wyrmling-4_Game_Token.png]]
+![[White dragon.png | 400]]

@@ -1,12 +1,35 @@
-Not done yet.. come back later.
+![[Session 10.svg| 700]]
 # Non-Combat
 ***
-  
+[[Aedric]] wakes up to [[Theric]] stimming in the corner deciphering the note. [[Aedric]] knocks on all of our doors and we meet upstairs discussing what to do next. We decide to head to [[Strathome]] and meet with [[Varian]]. [[Ken]] messages [[Varian]] and he heads to the potion shop as [[Lobis]] and [[Aedric]] get the horses. We head out on the journey to [[Strathome]]. We take turns watching [[Ken]] and we long rest. We travel 2nd day with no issue. [[Ken]] struggles and tries to attune the sword. [[Lobis]] use charm person and it fails. We all gather around him and roll initiative. 
 # Combat 
 ***
-  
+[[Lobis]] swing at him and miss. [[Aedric]] goes next casting spike growth. [[Mustel]] summons her steed. [[Theric]] uses command and it misses. It's [[Ken]]s turn. He uses stinking cloud. [[Aedric]] is the only one who gets hit but [[Ken]] runs away and loses his concentration. [[Lobis]] use slow on [[Ken]]. [[Lobis]] use another lucky to get him to fail it. [[Aedric]] uses the dash action to get around the spike growth cutting off. [[Mustel]] gets on the back of her horse and teleports 60 ft. It hits [[Ken]] for 10 DMG. [[Theric]] does level 3 guiding bolt. It does 27 DMG and knocks [[Ken]] out. 
+# Non-Combat
+***
+We tie him up and take the sword from him. [[Ken]] does not get a long rest. When we take the sword away from [[Ken]] he talks about the sword kept compelling him to attune. We untied him healed him and gave the sword to [[Mustel]]. It's the third day of travel. [[Aedric]] and [[Mustel]] notice the [[Kobold]] in the trees. As [[Theric]] goes up to him he talks "HOME, FRIENDS HOME. THERIIICCC." [[Ken]] notices the [[Kobold]] from earlier that gave him the potions. The little [[Kobold]] talks about a shiny rock and another [[Kobold]] leads us to it. "DONT TELL OTHERS HE SAYS." The rock has some indented pattern of some kind. About three feet down from the tip. [[Lobis]] tells the party and we try to open the stone. It opens a little bit but they close it. We open it again and [[Ken]] uses the [[Immoveable Rod]] to keep it open. He sends [[Scrappy]] in and after a bit he loses connection. He talks about a room. We discuss and with [[Aedric||Aedrics]] big monkey form we open the top. [[Lobis]] and [[Aedric]] heard about a green mineral that emit magical energy but also absorbs it. Called smorgdine. We go down the egg hallway and we head into a big room that has many branches. [[Lobis]] notice a couple devices that seem like clockwork in nature. [[Aedric]] crits on the wall and it does nothing. [[Ken]] sends [[Scrappy]] towards the bigger hallway. The boom happens again and it sends pulse through all the hallways and we roll initiative. 
+# Combat 
+***
+[[Scrappy]] takes 5 DMG and gets knocked prone. [[Aedric]] casts fairy fire causing two of the three to light up. [[Mustel]] moves and spends her action as a reaction to the dogs moving up. [[Theric]] moves up and uses his attack to do 17 DMG to dog 1 and 3. [[Ken]] does 10 DMG to 1, 23 to 2 and some to 3. [[Scrappy]] tries to sting [[Dog Construct]] 1 for 8 DMG and the poison doesn't do anything. [[Lobis]] use scorching ray and deal a bunch of DMG to all the [[Dog Construct|Dog Constructs]] criting on the third one. [[Theric]] fails the saving throw taking 20 slashing DMG and he falls prone. The dogs start biting [[Theric]] doing 17 DMG. Another [[Dog Construct]] comes up from behind looking at [[Aedric]] missing at tongue attack. [[Theric]]'s aura does 11 DMG to one of the dogs. [[Aedric]] runs up to the dog from behind and uses ray of frost doing 3 DMG. [[Aedric]] uses his emanation and he does nothing because the dog rolls really high. [[Mustel]] runs up and swings on dog 2 killing it. The dog overheats exploding doing 8 DMG to [[Theric]] and 4 to [[Mustel]] and scrappy. [[Theric]] stands up and ends his turn. [[Ken]] runs up and pushes them away. [[Lobis]] use magic missile on 3 it barley lives so [[Lobis]] use sorcerous burst on it and it blows up causing a chain reaction explosion killing the other dog by it, with [[Scrappy]] as well. The 4th dog runs past [[Aedric]] and hits [[Lobis]]knocking him prone doing 11 DMG. [[Aedric]] uses his emanation to do 13 ish DMG to the dog pushing him away. He uses ray of frost for 3 DMG as his action. [[Mustel]] swings on it doing 22 DMG in total. [[Theric]] uses toll of the dead doing 13 DMG. [[Ken]] summons [[Kens Skeleton]] to do a 360 and it shoots an arrow into its head killing it
+# Non-Combat
+***
+We investigate down the tunnel we come upon a large opening. There seems to be a large pillar where the sound is emanating. [[Lobis]] and [[Theric]] go toward the head. [[Mustel]] goes toward the other arm. [[Ken]] goes next to the pillar. The pillar glows light blue and sends it's light to 4 canisters that fill up and hiss with steam when full dropping [[Axe Soldier Construct]]'s out of them. [[Mustel]] moves up to one of them and tries to speak but no answer. One moves up to observe [[Ken]]. The other creature moves up to [[Mustel]] and observes her same as [[Ken]]. [[Lobis]] said it in gnomish to the robot asking if it understands. It comes over and looks at [[Lobis]] while kneeling down. The robots respond to [[Lobis]] in gnomish taking his orders. We head into the "head" and see more [[Big Construct]]'s. The walls ceiling are mostly in tack. On the distant wall there are two smaller circles and a device with tubes on the side. [[Lobis]] go up to the glowing blue orb and touches it. The machine turns on and says "weeblesnob detected, welcome back" it's been 999999.... Then it sparks and shuts off. [[Theric]] finds an item and [[Lobis]] investigate where all the sparks came from. He tries to fix it, but no one in the party is skilled enough to fix it. We head back down and look In the other hand, nothing. We go back to the [[Kobold]] village and [[Ken]] gives them one of the octagonal coins he found earlier. He has 66 left now. We leave the [[Kobold]] village and head back toward [[Strathome]] again. It gets to evening and we set up camp. As we head back to [[Strathome]] we see smoke it the distance. Oh noooo "gulp"
 # Important Info
 ***
-
+- [[Theric]] starts deciphering the note
+- We start heading to [[Strathome]] and [[Ken]] struggles to attune to [[Bone Reaver]]
+	- We fight [[Ken]] and take the sword from him giving it to [[Mustel]]
+- We come back across [[Theric Keep]] and explore something they found behind the small village
+- As we enter the weird metal egg we learn about a mineral called smorgdine
+	- It emits magical energy while also absorbing it
+- we fight a couple [[Dog Construct|Dog Constructs]] and continue our search
+- We learn that this egg we entered is actually a huge robot buried in the ground.
+- [[Ken]] touches the pillar and it sends blue light opening four other pillars dropping 4 [[Axe Soldier Construct]]s
+	- After much experimentation we learn they respond to Gnomish language and follow [[Lobis]]' instructions.
+- We head to the head and touch the glowing orb it mentions [[Lobis]]' name and shuts off clearly broken
+	- We also see some [[Big Construct]]
+- We head back out and continue towards [[Strathome]]
+	- We see smoke upon our arrival
 # Next Session
 ***
+[[Endarra/Sessions/Session 11|Session 11]]

@@ -2,3 +2,5 @@
 - [[Hundar]] is the current commander
 - Holding off the undead from [[Crystalsong fjord]]
 - Goblins, Kobolds, a humanoid bird species, and hill giants are present, all coexisting.
+- First major battle with us in [[Endarra/Sessions/Session 7|Session 7]]
+- Second major battle with us in [[Endarra/Sessions/Session 11|Session 11]]

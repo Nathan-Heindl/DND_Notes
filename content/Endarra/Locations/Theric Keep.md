@@ -1,0 +1,4 @@
+- [[Theric]]s [[Kobold]] base acquired in [[Endarra/Sessions/Session 8]]
+	- got it after killing the [[White dragon]] and half dragons
+- Between [[Travast]] and [[Thunderkeep]] right before the split in [[Dun Boldor]]
+- Behind is a huge robot body buried underground

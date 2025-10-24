@@ -1,0 +1,3 @@
+- can hold most non magical items.
+- has a small subspace that it stores items in
+- found in [[Endarra/Sessions/Session 8]]

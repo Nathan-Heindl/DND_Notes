@@ -1,0 +1,4 @@
+- A magical deck of cards first gotten in [[Endarra/Sessions/Session 8]] after fighting the [[Beholder]]
+- Has 29 cards
+- Cards have to be drawn at random
+- summons a random monster from the monster manual

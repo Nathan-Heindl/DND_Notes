@@ -1,4 +1,4 @@
-![[Session 7.svg]]
+![[Session 7.svg| 700]]
 
 # Non-Combat
 ***
@@ -36,4 +36,4 @@ The first of the shambling zombies comes into view, then more, dozens more follo
 
 # Next Session
 ***
-- [[Session 8]]
+- [[Endarra/Sessions/Session 8]]

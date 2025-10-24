@@ -1,1 +1,1 @@
-![[Conjurer.png]]
+![[Conjurer.png | 400]]

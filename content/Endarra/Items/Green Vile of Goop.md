@@ -1,0 +1,1 @@
+- A green vile of goop presumably used to infect the crops and turn people into undead.

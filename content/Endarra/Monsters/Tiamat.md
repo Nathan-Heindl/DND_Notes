@@ -1,0 +1,1 @@
+Dragon god first mentioned in [[Endarra/Sessions/Session 8]].

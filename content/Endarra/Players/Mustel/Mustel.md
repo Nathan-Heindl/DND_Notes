@@ -1,18 +1,19 @@
-![[Weasel Man.jpg]]
+![[Weasel Man.jpg| 200]]
 
-<font size="5px" color="purple">Race: 
-</font>
+# Race
+***
 - Doppelganger
 
-<font size="5px" color="purple">Class: 
-</font>
+# Class
+***
 - Paladin
 
-<font size="5px" color="purple">Subclass: 
-</font>
+# Subclass
+***
+- Oath of Glory
 
-<font size="5px" color="purple">Forms: 
-</font>
+# Forms
+***
 - [[Weasel Form]] (Main form)
 - [[True form]]
 - [[Vampire Lady Form]]

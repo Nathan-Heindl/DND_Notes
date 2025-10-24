@@ -1,1 +1,1 @@
-![[skeleton.png]]
+![[skeleton.png|400]]

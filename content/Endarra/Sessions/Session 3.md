@@ -1,4 +1,4 @@
-![[Session 3.svg]]
+![[Session 3.svg| 700]]
 
 # Non-Combat
 ***

@@ -1,1 +1,1 @@
-![[Goul guy.png]]
+![[Goul guy.png | 400]]

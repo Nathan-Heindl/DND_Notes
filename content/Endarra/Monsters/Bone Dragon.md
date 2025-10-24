@@ -1,1 +1,1 @@
-![[Bone dragon.png]]
+![[Bone dragon.png | 400]]

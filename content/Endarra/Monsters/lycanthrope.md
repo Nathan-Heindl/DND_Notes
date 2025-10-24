@@ -1,3 +1,2 @@
-![[lycanthrope.png]]
-- First met in [[Endarra/Sessions/Session 6]]
+- First met in [[Endarra/Sessions/Session 6|Session 6]]
 - Can transform from human form into wereform

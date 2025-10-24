@@ -1,12 +1,13 @@
-![[Theric.png]]
+![[Theric.png | 200]]
 
-<font size="5px" color="purple">Race: 
-</font>
+# Race
+***
 - Dragonborn (Bronze)
 
-<font size="5px" color="purple">Class: 
-</font>
+# Class
+***
 - Cleric
 
-<font size="5px" color="purple">Subclass: 
-</font>
+# Subclass
+***
+- War Domain 

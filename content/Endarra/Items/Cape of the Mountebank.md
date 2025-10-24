@@ -1,0 +1,1 @@
+- First gotten in [[Endarra/Sessions/Session 8]] after fighting the [[Beholder]]

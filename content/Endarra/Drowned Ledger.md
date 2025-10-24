@@ -1,0 +1,5 @@
+- Mercenary group
+- Leader:
+	- [[Captain Flynt Locke]]
+- Kraken symbol
+- Has pet [[Shiela]]

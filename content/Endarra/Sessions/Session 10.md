@@ -28,6 +28,8 @@ We investigate down the tunnel we come upon a large opening. There seems to be a
 	- After much experimentation we learn they respond to Gnomish language and follow [[Lobis]]' instructions.
 - We head to the head and touch the glowing orb it mentions [[Lobis]]' name and shuts off clearly broken
 	- We also see some [[Big Construct]]
+- [[Ken]] find some strange octagonal coins
+	- he found 67 but gave one to a [[Kobold]] in [[Theric Keep]]
 - We head back out and continue towards [[Strathome]]
 	- We see smoke upon our arrival
 # Next Session

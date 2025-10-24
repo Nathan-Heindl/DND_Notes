@@ -1,5 +1,4 @@
 ![[Aedric.png| 200]]
-
 # Race
 ***
 - Goliath(Storm Giant)

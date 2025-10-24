@@ -1,1 +1,1 @@
-an uncommon magic item that magically produces a variety of liquids once per day when a liquid's name is spoken, but it can only produce a maximum amount of that specific liquid per day, with production resetting at dawn.
+- an uncommon magic item that magically produces a variety of liquids once per day when a liquid's name is spoken, but it can only produce a maximum amount of that specific liquid per day, with production resetting at dawn.

@@ -1,1 +1,2 @@
-Only known as the monster beneath [[Captain Flynt Locke]]'s base in [[Oakenfell]].
+- First met in [[Endarra/Sessions/Session 2|Session 2]]
+- Only known as the monster beneath [[Captain Flynt Locke]]'s base in [[Oakenfell]].

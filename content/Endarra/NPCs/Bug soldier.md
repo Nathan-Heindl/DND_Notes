@@ -1,3 +1,3 @@
-![[Bug soldier.png]]
+![[Bug soldier.png|200]]
 
-first seen...
+- first seen in [[Endarra/Sessions/Session 6|Session 6]]

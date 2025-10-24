@@ -1,1 +1,0 @@
-![[White dragon.png | 400]]

@@ -1,4 +1,4 @@
-![[dwarf.jpg]]
+![[dwarf.jpg|200]]
 
 - We helped them on the road to [[Drenchport]]. 
 - Currently setting up shop in [[Oakenfell]]. 

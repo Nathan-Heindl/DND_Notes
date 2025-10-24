@@ -1,1 +1,1 @@
-gives +1 to ac and +1 to saving throws
+- gives +1 to ac and +1 to saving throws

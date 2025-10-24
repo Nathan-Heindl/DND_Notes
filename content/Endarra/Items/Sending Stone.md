@@ -1,2 +1,2 @@
-Comes in a pair
+- Comes in a pair
 - used to send a once per day 25 word text message. 

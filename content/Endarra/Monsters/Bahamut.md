@@ -1,1 +1,1 @@
-A dragon god first mentioned in [[Endarra/Sessions/Session 8]]
+- A dragon god first mentioned in [[Endarra/Sessions/Session 8]]

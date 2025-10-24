@@ -1,1 +1,1 @@
-Rings given to us by [[Captain Flynt Locke]]'s personnel with a kraken symbol on the side and silver in color.  
+- Rings given to us by [[Captain Flynt Locke]]'s personnel with a kraken symbol on the side and silver in color.  

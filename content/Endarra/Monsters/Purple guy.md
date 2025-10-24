@@ -1,4 +1,4 @@
-First seen in [[Endarra/Sessions/Session 4]]
+- First seen in [[Endarra/Sessions/Session 4]]
 - Had a tentacle beard
 - Reacted to [[Ken]]s [[Branding Iron]]
 - was immune to poison

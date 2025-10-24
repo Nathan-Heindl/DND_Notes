@@ -1,1 +1,1 @@
-Can raise the dead once per day
+- Can raise the dead once per day

@@ -1,3 +1,3 @@
-![[Flynt_Locke.png]]
+![[Flynt_Locke.png| 200]]
 
-Supposed leader of the drowned ledger
+- leader of the [[Drowned Ledger]]

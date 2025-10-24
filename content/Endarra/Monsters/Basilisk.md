@@ -1,6 +1,6 @@
 ![[Basilisk.png | 400]]
 
-First encountered in [[Endarra/Sessions/Session 3]]. With a reptilian like body.
+- First encountered in [[Endarra/Sessions/Session 3]]. With a reptilian like body.
 - Medium in size
 	- 8 legs and 7 feet long
 - Has a petrifying gaze

@@ -15,7 +15,6 @@
 - [[Dog Construct]]
 - [[Dragonborn]]
 - [[Flame Dog]]
-- [[Frost Dragon]]
 - [[Gnoll]]
 - [[Goul Guy]]
 - [[High Demon General]]
